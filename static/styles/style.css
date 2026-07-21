@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    padding: 0;
+    color: aquamarine;
+    border-top: solid;
+    border-color: blueviolet;
+}
+img {
+width: 350px;
+height: 350px;
+}
+.all{
+flex-direction: column;
+}
+.one {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.two {
+    display: flex;
+}
+
+.three {
+    display: flex;
+}
+
+.photo {
+    margin: 30px;
+}
+
+.card {
+    margin: 20px;
+    border-color: blueviolet;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 2rem;
+}
